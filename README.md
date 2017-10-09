@@ -1,3 +1,5 @@
+[![FOSSA Status](https://app.fossa.io/api/projects/git%2Bgithub.com%2FHartmarken%2FPython.svg?type=shield)](https://app.fossa.io/projects/git%2Bgithub.com%2FHartmarken%2FPython?ref=badge_shield)
+
 Here is some more detailed information about the scripts I have written.  I do not consider myself a programmer, I create these little programs as experiments to have a play with the language, or to solve a problem for myself.  I would gladly accept pointers from others to improve the code and make it more efficient, or simplify the code.  If you would like to make any comments then please feel free to email me at craig@geekcomputers.co.uk.
 
 In the scripts the comments etc are lined up correctly when they are viewed in [Notepad++](https://notepad-plus-plus.org/). This is what I use to code Python scripts.
@@ -40,3 +42,7 @@ In the scripts the comments etc are lined up correctly when they are viewed in [
 
 - `get_youtube_view.py` - This is very simple python script to get more views for your youtube videos.Some times I use for repeating my favorite songs by this scripts.
  
+
+
+## License
+[![FOSSA Status](https://app.fossa.io/api/projects/git%2Bgithub.com%2FHartmarken%2FPython.svg?type=large)](https://app.fossa.io/projects/git%2Bgithub.com%2FHartmarken%2FPython?ref=badge_large)
